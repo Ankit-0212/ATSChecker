@@ -1,0 +1,10 @@
+We are hiring a DevOps Engineer to help automate and optimize our development and deployment processes.
+Required skills:
+
+Experience with AWS, Docker, and Kubernetes
+
+Familiarity with CI/CD pipelines using Jenkins or GitHub Actions
+
+Proficiency in Python or Bash scripting
+
+Preferred: Terraform, monitoring tools like Prometheus or Grafana.
